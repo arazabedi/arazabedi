@@ -1,5 +1,3 @@
-A former finance assistant who got a little too bored of Excel.
-
 Learned ***Ruby on Rails*** at Le Wagon 💎 \
 Learning 🇯🇸 and its enormous ecosystem ⚛️ ⬢ 
 
